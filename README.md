@@ -24,7 +24,9 @@ npm install
 # 主要实现功能
 包括首页热榜展示 搜索功能（包含搜索提示，历史搜索），播放功能（包含歌词滚动，展示评论数据等），在官方歌单内选中歌曲可以在歌曲播完后自动播放下一首
 ![image](https://user-images.githubusercontent.com/33826376/125903525-47874383-93cb-4293-a06b-aa02df4d70ea.png)
+
 ![image](https://user-images.githubusercontent.com/33826376/125903718-b291cacb-a423-4b12-9924-0d5b9a46d983.png)
+
 ![image](https://user-images.githubusercontent.com/33826376/125904483-0103721d-1047-43b8-83fe-59b5c942603c.png)
 
 # 待修复的bug
