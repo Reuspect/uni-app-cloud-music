@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 2667500 */
+  src: url('//at.alicdn.com/t/font_2667500_r02b76qlxdp.woff2?t=1626110050899') format('woff2'),
+       url('//at.alicdn.com/t/font_2667500_r02b76qlxdp.woff?t=1626110050899') format('woff'),
+       url('//at.alicdn.com/t/font_2667500_r02b76qlxdp.ttf?t=1626110050899') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.iconfont.data-v-05e631ba {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.music-head.data-v-05e631ba {
+	height: 75px;
+	/* background-color: #808080; */
+	width: 100%;
+	font-size:16px;
+	line-height:80px;
+	text-align:center;
+	color:black;
+	position: relative;
+}
+.music-head-icon.data-v-05e631ba {
+	position: absolute;
+	left: 8px;
+	top:24px;
+	width:90px;
+	height:30px;
+	background-color: rgba(0,0,0,0.4);
+	color:white;
+	line-height:30px;
+	border-radius: 15px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: space-evenly;
+	-webkit-justify-content: space-evenly;
+	        justify-content: space-evenly;
+}
+.music-head-iconblack.data-v-05e631ba {color:black; border: 1px #eaeaea solid; background-color: white;}
+
