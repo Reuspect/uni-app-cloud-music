@@ -8,15 +8,15 @@
 
 # API安装步骤：
 
-git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+1.git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
 (不会使用git的小伙伴可以直接去仓库下载接口哦，接口仓库地址：https://github.com/Binaryify/NeteaseCloudMusicApi)
 
 
-## 2.cd到安装api的文件夹
+2.cd到安装api的文件夹
 
-## 3 npm install
+3 npm install
 
-## 4.node app.js
+4.node app.js
 成功运行后可以直接在浏览器中输入localhost:3000 访问后台文档
 
 # 关于本项目
